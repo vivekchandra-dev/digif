@@ -41,7 +41,7 @@
                                 <h2 class="title">About Us</h2>
                                 <div class="other-text color1 mt-3">We are Digitechflux, here to make your journey flawless and profit-oriented.  </div>
                                 <div class="text">Our commitment to you is simple, we are here to get you results and devoted to providing complete digital marketing solutions to organizations in a variety of industries so they may enhance their marketing initiatives and obtain a competitive advantage.Our approach is strategist to get you visible results, our team goes above and beyond to ensure your marketing campaigns get you sustainable results. </div>
-                                <div class="text"></div>By operating with honesty and doing the right thing, no matter how challenging, we hope to foster mutual respect and trust. We put in our utmost effort and demand excellence from ourselves. We operate quickly, proactively, and with organization.
+                                <div class="text">By operating with honesty and doing the right thing, no matter how challenging, we hope to foster mutual respect and trust. We put in our utmost effort and demand excellence from ourselves. We operate quickly, proactively, and with organization.</div>
                             </div>
                             
                             
@@ -204,7 +204,7 @@
                   <h5 class="name">
                   Mahendra Soni
                   </h5>
-                  <span class="designation">E-Commerece SEO Expert
+                  <span class="designation">E-Commerce SEO Expert
                   </span>
                   <p class="description">Mahendra is here to enhance online store optimization to boost visibility and revenue. His expertise in e-commerce search engine optimization boosts traffic, promotes conversions, and guarantees that customers have an excellent online buying experience.</p>
                 </div>

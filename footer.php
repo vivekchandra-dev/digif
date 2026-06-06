@@ -93,7 +93,7 @@
                         <div class="links-column col-lg-4 col-md-4 order-3">
                             <ul class="footer-links">
                                 <li><a href="terms-n-conditions">Terms of Use</a></li>
-                                <li><a href="privacy-policy">Privacy Policy</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-4 col-md-4">
@@ -107,7 +107,6 @@
     </div>
 
     <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
-    <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script src="js/jquery.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>

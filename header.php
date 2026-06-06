@@ -34,7 +34,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <ul class="list-style-one">
                             <li><i class="fa fa-envelope"></i> <a
-                                    href="mailto:shailendrasoni841@gmail.com">shailendrasoni841@gmail.com</span></a>
+                                    href="mailto:shailendrasoni841@gmail.com">shailendrasoni841@gmail.com</a>
                             </li>
                             <li><i class="fa fa-map-marker"></i>B-101 Gokul vraj Jb nagar Kanti nagar Andheri East</li>
                         </ul>
@@ -62,20 +62,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="nav-outer">
                         <nav class="nav main-menu">
                             <ul class="navigation">
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="about.php">About</a></li>
-                            <li><a href="blog.php">Blog</a></li>
-                            <li><a href="services.php">Services</a></li>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="about">About</a></li>
+                            <li><a href="blog">Blog</a></li>
+                            <li><a href="services">Services</a></li>
                                 <!-- <li class="dropdown"><a href="">Services</a>
                                     <ul>
-                                        <li><a href="digital_marketing_blog.php">SEO</a></li>
+                                        <li><a href="digital_marketing_blog">SEO</a></li>
                                         <li><a href="">SMM</a></li>
                                         <li><a href="">SMO</a></li>
                                         <li><a href="">Web Designing</a></li>
                                     </ul>
                                 </li> -->
                                
-                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="contact">Contact</a></li>
                             </ul>
                         </nav>
 
@@ -117,7 +117,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <span class="icon lnr-icon-envelope1"></span>
                                 <span class="title">Send Email</span>
                                 <a
-                                    href="mailto:shailendrasoni841@gmail.com">shailendrasoni841@gmail.com</span></a>
+                                    href="mailto:shailendrasoni841@gmail.com">shailendrasoni841@gmail.com</a>
                             </div>
                         </li>
                        

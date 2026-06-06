@@ -32,7 +32,7 @@
 							<h2>Fill Up The Form</h2>
 						</div>
 
-						<form id="contact_form" name="contact_form" class
+						<form id="contact_form" name="contact_form"
 						action="https://api.web3forms.com/submit" method="POST">
 							<div class="row">
 							<input type="hidden" name="access_key" value="3f0f0b69-ed2e-476f-86ae-e1192707eff2">

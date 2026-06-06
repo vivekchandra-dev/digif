@@ -442,5 +442,3 @@
     <?php
        include 'footer.php';
        ?>
-  </head>
-</html>

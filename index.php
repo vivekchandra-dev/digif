@@ -117,7 +117,7 @@
                     <div class="icon">
                     <svg xmlns="http://www.w3.org/2000/svg" width="50%" height="auto" xml:space="preserve" width="655.359" height="655.359" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd" viewBox="0 0 6.827 6.827"><defs><style>.fil0{fill:#212121;fill-rule:nonzero}</style></defs><g id="Layer_x0020_1"><path class="fil0" d="M3.435 2.033 5.657.866l.05.094-.05-.094a.107.107 0 0 1 .156.096v4.335a.107.107 0 0 1-.163.09L3.435 4.224H1.12a.107.107 0 0 1-.106-.106V2.14c0-.059.047-.107.106-.107h2.315zM5.6 1.136 3.517 2.231a.106.106 0 0 1-.056.016H1.227V4.01h2.232c.017 0 .035.004.051.012l-.05.095.05-.094L5.6 5.12V1.136z"/><path class="fil0" d="M1.902 4.01h1.041l-.033.132-.428 1.75-.02.081H1.337l.033-.131.428-1.75.02-.082h.084zm.77.213h-.687L1.608 5.76h.687l.377-1.537zM2.016 2.465h.923v.214h-.923z"/></g><path style="fill:none" d="M0 0h6.827v6.827H0z"/></svg>
                     </div>
-                    <h5 class="title"><a href="">DIGITAL MARKETING</a></h5>
+                    <h5 class="title"><a href="services">DIGITAL MARKETING</a></h5>
                   
                     <ul class="list-style-two ">
                         <li><i class="fa fa-check-circle"></i>Digital Marketing Strategy</li>
@@ -126,7 +126,7 @@
                         <li><i class="fa fa-check-circle"></i>Social media management  </li>
                         <li><i class="fa fa-check-circle"></i>Social media optimization </li>
                     </ul>
-                    <a href="" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
+                    <a href="services" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
                 </div>
             </div>
 
@@ -202,14 +202,14 @@
                     </g>
                   </svg>
                    </div>
-                    <h5 class="title"><a href="">WEBSITE DESIGNING</a></h5>
+                    <h5 class="title"><a href="services">WEBSITE DESIGNING</a></h5>
                     <ul class="list-style-two ">
                         <li><i class="fa fa-check-circle"></i>UI/UX Design</li>
                         <li><i class="fa fa-check-circle"></i>Website Maintenance</li>
                         <li><i class="fa fa-check-circle"></i>E-commerce Website</li>
                         <li><i class="fa fa-check-circle"></i>Creative Design</li>
                     </ul>
-                    <a href="" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
+                    <a href="services" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
                 </div>
             </div>
 
@@ -228,14 +228,14 @@
                     />
                   </svg>
                    </div>
-                    <h5 class="title"><a href="">CONTENT WRITING</a></h5>
+                    <h5 class="title"><a href="services">CONTENT WRITING</a></h5>
                     <ul class="list-style-two ">
                         <li><i class="fa fa-check-circle"></i>Blog Post</li>
                         <li><i class="fa fa-check-circle"></i>Website Content</li>
                         <li><i class="fa fa-check-circle"></i>Email Marketing Content</li>
                         <li><i class="fa fa-check-circle"></i>Product Description</li>
                     </ul>
-                    <a href="" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
+                    <a href="services" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
                 </div>
             </div>
 
@@ -279,7 +279,7 @@
 </g>
 </svg>
                    </div>
-                    <h5 class="title"><a href="">GRAPHIC DESIGNING</a></h5>
+                    <h5 class="title"><a href="services">GRAPHIC DESIGNING</a></h5>
                     <ul class="list-style-two ">
                         <li><i class="fa fa-check-circle"></i>Logo Design</li>
                         <li><i class="fa fa-check-circle"></i> Branding Materials</li>
@@ -287,7 +287,7 @@
                         <li><i class="fa fa-check-circle"></i>Infographics</li>
                         <li><i class="fa fa-check-circle"></i>Print and Digital Advertising</li>
                     </ul>
-                    <a href="" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
+                    <a href="services" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
                 </div>
             </div>
         </div>
