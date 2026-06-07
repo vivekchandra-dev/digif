@@ -115,7 +115,7 @@
             <div class="service-block-three col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="icon">
-                    <i data-lucide="megaphone" style="width:48px;height:48px;color:var(--theme-color1)"></i>
+                    <i data-lucide="megaphone" style="width:48px;height:48px;color:#000000"></i>
                     </div>
                     <h5 class="title"><a href="services">DIGITAL MARKETING</a></h5>
                   
@@ -133,7 +133,7 @@
             <div class="service-block-three col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                    <div class="icon">
-                   <i data-lucide="layout-template" style="width:48px;height:48px;color:var(--theme-color1)"></i>
+                   <i data-lucide="layout-template" style="width:48px;height:48px;color:#000000"></i>
                    </div>
                     <h5 class="title"><a href="services">WEBSITE DESIGNING</a></h5>
                     <ul class="list-style-two ">
@@ -149,7 +149,7 @@
             <div class="service-block-three col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                    <div class="icon">
-                   <i data-lucide="pen-tool" style="width:48px;height:48px;color:var(--theme-color1)"></i>
+                   <i data-lucide="pen-tool" style="width:48px;height:48px;color:#000000"></i>
                    </div>
                     <h5 class="title"><a href="services">CONTENT WRITING</a></h5>
                     <ul class="list-style-two ">
@@ -165,7 +165,7 @@
             <div class="service-block-three col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                    <div class="icon">
-                   <i data-lucide="palette" style="width:48px;height:48px;color:var(--theme-color1)"></i>
+                   <i data-lucide="palette" style="width:48px;height:48px;color:#000000"></i>
                    </div>
                     <h5 class="title"><a href="services">GRAPHIC DESIGNING</a></h5>
                     <ul class="list-style-two ">
