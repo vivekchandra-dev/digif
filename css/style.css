@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap";
+@import "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap";
 @import "animate.css";
 @import "owl.css";
 @import "fontawesome.css";
@@ -17,8 +17,8 @@
     --headings-color: var(--theme-color2);
     --link-color: var(--theme-color2);
     --link-hover-color: var(--theme-color2);
-    --text-font: "Manrope", sans-serif;
-    --title-font: "Manrope", sans-serif;
+    --text-font: "Plus Jakarta Sans", sans-serif;
+    --title-font: "Plus Jakarta Sans", sans-serif;
     --body-font-size: 16px;
     --body-line-height: 30px;
     --body-font-weight: 500;
@@ -1527,7 +1527,7 @@ li {
 
 .main-header .header-lower .logo-box {
     position: relative;
-    padding: 20px 0
+    padding: 8px 0
 }
 
 .main-header {
@@ -1601,7 +1601,7 @@ li {
 .main-menu .navigation>li {
     position: relative;
     float: left;
-    padding: 25px 0;
+    padding: 15px 0;
     margin-right: 72px;
     -webkit-transition: all 300ms ease;
     transition: all 300ms ease
@@ -1986,14 +1986,14 @@ li {
 }
 
 .header-style-two .main-box .logo-box {
-    padding: 32px 0;
+    padding: 12px 0;
     margin: 0;
     width: 20%;
 }
 
 @media(max-width:991.98px) {
     .header-style-two .main-box .logo-box {
-        padding: 15px 0
+        padding: 10px 0
     }
 }
 
@@ -2002,7 +2002,7 @@ li {
 }
 
 .header-style-two .main-box .main-menu .navigation>li {
-    padding: 25px 0
+    padding: 12px 0
 }
 
 @media only screen and (max-width:1699px) {
@@ -2018,7 +2018,8 @@ li {
 }
 
 .header-style-two .main-box .main-menu .navigation>li>a {
-    color: var(--theme-color2)
+    color: var(--theme-color2);
+    font-size: 15px !important;
 }
 
 .header-style-two .main-box .outer-box .info-btn {
@@ -2985,7 +2986,14 @@ li {
 }
 
 .banner-section-two .slide-item {
-    position: relative
+    position: relative;
+    height: 70vh;
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+}
+.banner-section-two .slide-item .auto-container {
+    width: 100%;
 }
 
 .banner-section-two .slide-item .bg-image {
@@ -2997,9 +3005,6 @@ li {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width: auto;
-    right: 0;
-    left: 240px
 }
 
 @media only screen and (max-width:1699px) {
@@ -3024,12 +3029,12 @@ li {
 
 .banner-section-two .content-box {
     position: relative;
-    padding: 200px 0 205px
+    padding: 0;
 }
 
 @media(max-width:991.98px) {
     .banner-section-two .content-box {
-        padding: 150px 0
+        padding: 0;
     }
 }
 
@@ -5286,7 +5291,7 @@ li {
     background-color: var(--theme-color2)
 }
 
-@-webkit-keyframes "ripple" {
+@-webkit-keyframes ripple {
     70% {
         -webkit-box-shadow: 0 0 0 70px transparent;
         box-shadow: 0 0 0 70px transparent
@@ -5298,7 +5303,7 @@ li {
     }
 }
 
-@keyframes "ripple" {
+@keyframes ripple {
     70% {
         -webkit-box-shadow: 0 0 0 70px transparent;
         box-shadow: 0 0 0 70px transparent
@@ -7521,4 +7526,166 @@ li {
 
 .footer-bottom .footer-links li a:hover {
     color: #fff
+}
+
+/* --- Modern UX UI Improvements --- */
+
+/* Scroll Reveal Animations */
+.scroll-reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: opacity, transform;
+}
+.scroll-reveal.revealed {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Modernize Header Top */
+.header-top {
+    background: rgba(255, 255, 255, 0.85) !important;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+.header-top .list-style-one li, 
+.header-top .list-style-one li a {
+    color: #4a5568 !important;
+    font-weight: 600 !important;
+}
+.header-top .list-style-one li i,
+.header-top .social-icon-one li a {
+    color: #2d3748 !important;
+}
+.header-top .social-icon-one li a:hover {
+    color: var(--theme-color1) !important;
+}
+
+/* Modern Pill Buttons */
+.theme-btn.btn-style-one {
+    border-radius: 50px !important;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+.theme-btn.btn-style-one:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 15px 25px rgba(238, 118, 60, 0.25);
+}
+
+/* Modern Service Cards */
+.service-block-three .inner-box {
+    border-radius: 20px;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.04);
+    transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    border: 1px solid rgba(0,0,0,0.02);
+    background: #ffffff;
+}
+.service-block-three .inner-box:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+}
+
+/* Slider Gradient Overlay Refinement */
+.banner-carousel .slide-item .bg-image::after {
+    content: "";
+    position: absolute;
+    top:0; left:0; right:0; bottom:0;
+    background: linear-gradient(90deg, rgba(255,255,255,0.95) 0%, rgba(255,255,255,0.4) 100%);
+    z-index: 1;
+}
+.banner-carousel .slide-item .auto-container {
+    position: relative;
+    z-index: 2;
+}
+
+/* Premium Slider Controls UI: [ < ] • • [ > ] */
+.banner-section-two .banner-carousel {
+    position: relative;
+}
+.banner-section-two .owl-nav {
+    position: absolute !important;
+    bottom: 30px !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: space-between;
+    width: 100px; /* Space for dots in middle */
+    z-index: 10;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.banner-section-two .owl-dots {
+    position: absolute !important;
+    bottom: 43px !important; /* aligned vertically with centers of buttons */
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    margin: 0 !important;
+}
+.banner-section-two .owl-nav .owl-prev,
+.banner-section-two .owl-nav .owl-next {
+    width: 32px !important;
+    height: 32px !important;
+    background: rgba(255, 255, 255, 0.2) !important;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.6) !important;
+    border-radius: 50% !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: #fff !important;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.banner-section-two .owl-nav .owl-prev:hover,
+.banner-section-two .owl-nav .owl-next:hover {
+    background: var(--bg-theme-color1) !important;
+    border-color: var(--bg-theme-color1) !important;
+    transform: scale(1.05);
+}
+.banner-section-two .owl-dots .owl-dot {
+    width: 6px !important;
+    height: 6px !important;
+    background: rgba(255, 255, 255, 0.4) !important;
+    border-radius: 50% !important;
+    margin: 0 4px !important;
+    padding: 0 !important;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+.banner-section-two .owl-dots .owl-dot.active {
+    background: var(--bg-theme-color1) !important;
+    transform: scale(1.4);
+}
+.banner-section-two .owl-dots .owl-dot:hover {
+    background: rgba(255, 255, 255, 0.8) !important;
+}
+
+/* Header Top Full-Width Solid Bar Fix */
+.main-header .header-top {
+    background-color: var(--bg-theme-color1) !important;
+    width: 100% !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+    border-bottom: none !important;
+}
+.main-header .header-top .inner-container {
+    background-color: transparent !important;
+}
+.main-header .header-top .list-style-one li, 
+.main-header .header-top .list-style-one li a,
+.main-header .header-top .social-icon-one li a,
+.main-header .header-top i,
+.main-header .header-top svg {
+    color: #ffffff !important;
+    font-weight: 400 !important;
+}
+.main-header .header-top .social-icon-one li a:hover {
+    color: var(--theme-color2) !important;
 }

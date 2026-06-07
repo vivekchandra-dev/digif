@@ -14,7 +14,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta name="google-site-verification" content="AMau3lNwVZBqnqWCuhZwcsSToiDVOqApwtnyYu6hFos" />
-    
+    <script src="https://unpkg.com/lucide@latest"></script>
 </head>
 
 <body>
@@ -41,7 +41,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <div class="top-right">
                        
-                        <ul class="social-icon-one">
+                         <ul class="social-icon-one">
                             <li><a href="https://www.linkedin.com/company/digitechflux/"><span class="fab fa-linkedin"></span></a></li>
                            
                             <li><a href="https://www.facebook.com/digitechflux/"><span class="fab fa-facebook-square"></span></a></li>

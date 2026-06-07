@@ -53,7 +53,7 @@
                                 <div class="widget-content">
                                     <ul class="user-links">
                                        <li>
-                                       <div class="inner d-flex align-items-center">
+                                        <div class="inner d-flex align-items-center">
                                 <i class="icon lnr-icon-envelope1"></i>
                                 <div class="text ms-3"> 
                                 <a href="mailto:shailendrasoni841@gmail.com">shailendrasoni841@gmail.com</a>
@@ -61,7 +61,7 @@
                             </div>
                                        </li>
                                        <li>
-                                       <div class="inner d-flex align-items-center">
+                                        <div class="inner d-flex align-items-center">
                                 <i class="icon lnr-icon-phone-handset"></i>
                                 <div class="text ms-3"> 
                                 <a href="tel:+9451118291">9451118291</a>
@@ -69,7 +69,7 @@
                             </div>
                                        </li>
                                        <li>
-                                       <div class="inner d-flex align-items-center">
+                                        <div class="inner d-flex align-items-center">
                                        <i class="fa fa-map-marker"></i>
                                 <div class="text ms-3"> 
                                 B-101 Gokul vraj Jb nagar Kanti nagar Andheri East
@@ -117,6 +117,24 @@
     <script src="js/select2.min.js"></script>
     <script src="js/owl.js"></script>
     <script src="js/script.js"></script>
+    <script>
+      lucide.createIcons();
+      
+      // Intersection Observer for Scroll Reveals
+      document.addEventListener("DOMContentLoaded", () => {
+          const observer = new IntersectionObserver((entries) => {
+              entries.forEach(entry => {
+                  if (entry.isIntersecting) {
+                      entry.target.classList.add("revealed");
+                  }
+              });
+          }, { threshold: 0.1 });
+
+          document.querySelectorAll('.scroll-reveal').forEach((el) => {
+              observer.observe(el);
+          });
+      });
+    </script>
 </body>
 
 </html>
