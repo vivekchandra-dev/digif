@@ -23,10 +23,10 @@
                                 <div class="widget-content">
                                     <ul class="user-links">
                                         <li><a href="/">Home</a></li>
-                                        <li><a href="about">About Us</a></li>
-                                        <li><a href="blog">Blogs</a></li>
-                                        <li><a href="services">Services</a></li>
-                                        <li><a href="contact">Contact</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li><a href="blog.php">Blogs</a></li>
+                                        <li><a href="services.php">Services</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -37,11 +37,11 @@
                                 <h6 class="widget-title">What We Serve</h6>
                                 <div class="widget-content">
                                     <ul class="user-links">
-                                        <li><a href="services">SEO</a></li>
-                                        <li><a href="services">SMM</a></li>
-                                        <li><a href="services">SMO</a></li>
-                                        <li><a href="services">Web Designing</a></li>
-                                        <li><a href="services">Content Writing</a></li>
+                                        <li><a href="services.php">SEO</a></li>
+                                        <li><a href="services.php">SMM</a></li>
+                                        <li><a href="services.php">SMO</a></li>
+                                        <li><a href="services.php">Web Designing</a></li>
+                                        <li><a href="services.php">Content Writing</a></li>
                                     </ul>
                                 </div>
                             </div>

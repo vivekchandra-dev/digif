@@ -30,7 +30,7 @@
               <div class="inner-box">
                 <div class="image-box">
                   <figure class="image">
-                    <a href="digital_marketing_blog"
+                    <a href="digital_marketing_blog.php"
                       ><img src="images/blog/1.jpg" alt
                     /></a>
                   </figure>
@@ -39,7 +39,7 @@
                 <div class="content-box">
                  
                   <h5 class="title">
-                    <a href="digital_marketing_blog" title
+                    <a href="digital_marketing_blog.php" title
                       >Why Digital Marketing is Important for Small Business </a
                     >
                   </h5>
@@ -48,7 +48,7 @@
                   </div>
                   <ul class="post-info">
                     <li class="read-more">
-                      <a href="digital_marketing_blog" title
+                      <a href="digital_marketing_blog.php" title
                         ><i class="fa fa-long-arrow-alt-right"></i> More</a
                       >
                     </li>
@@ -62,7 +62,7 @@
               <div class="inner-box">
                 <div class="image-box">
                   <figure class="image">
-                    <a href="optimize_onpage_seo"
+                    <a href="optimize_onpage_seo.php"
                       ><img src="images/blog/1.jpg" alt
                     /></a>
                   </figure>
@@ -71,7 +71,7 @@
                 <div class="content-box">
                  
                   <h5 class="title">
-                    <a href="optimize_onpage_seo" title
+                    <a href="optimize_onpage_seo.php" title
                       >How to Optimize On-Page SEO in 2024: A Comprehensive Guide </a
                     >
                   </h5>
@@ -80,7 +80,7 @@
                   </div>
                   <ul class="post-info">
                     <li class="read-more">
-                      <a href="optimize_onpage_seo" title
+                      <a href="optimize_onpage_seo.php" title
                         ><i class="fa fa-long-arrow-alt-right"></i> More</a
                       >
                     </li>

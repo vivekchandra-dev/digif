@@ -117,7 +117,7 @@
                     <div class="icon">
                     <i data-lucide="megaphone" style="width:48px;height:48px;color:#000000"></i>
                     </div>
-                    <h5 class="title"><a href="services">DIGITAL MARKETING</a></h5>
+                    <h5 class="title"><a href="services.php">DIGITAL MARKETING</a></h5>
                   
                     <ul class="list-style-two ">
                         <li><i class="fa fa-check-circle"></i>Digital Marketing Strategy</li>
@@ -126,7 +126,7 @@
                         <li><i class="fa fa-check-circle"></i>Social media management  </li>
                         <li><i class="fa fa-check-circle"></i>Social media optimization </li>
                     </ul>
-                    <a href="services" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
+                    <a href="services.php" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
                 </div>
             </div>
 
@@ -135,14 +135,14 @@
                    <div class="icon">
                    <i data-lucide="layout-template" style="width:48px;height:48px;color:#000000"></i>
                    </div>
-                    <h5 class="title"><a href="services">WEBSITE DESIGNING</a></h5>
+                    <h5 class="title"><a href="services.php">WEBSITE DESIGNING</a></h5>
                     <ul class="list-style-two ">
                         <li><i class="fa fa-check-circle"></i>UI/UX Design</li>
                         <li><i class="fa fa-check-circle"></i>Website Maintenance</li>
                         <li><i class="fa fa-check-circle"></i>E-commerce Website</li>
                         <li><i class="fa fa-check-circle"></i>Creative Design</li>
                     </ul>
-                    <a href="services" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
+                    <a href="services.php" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
                 </div>
             </div>
 
@@ -151,14 +151,14 @@
                    <div class="icon">
                    <i data-lucide="pen-tool" style="width:48px;height:48px;color:#000000"></i>
                    </div>
-                    <h5 class="title"><a href="services">CONTENT WRITING</a></h5>
+                    <h5 class="title"><a href="services.php">CONTENT WRITING</a></h5>
                     <ul class="list-style-two ">
                         <li><i class="fa fa-check-circle"></i>Blog Post</li>
                         <li><i class="fa fa-check-circle"></i>Website Content</li>
                         <li><i class="fa fa-check-circle"></i>Email Marketing Content</li>
                         <li><i class="fa fa-check-circle"></i>Product Description</li>
                     </ul>
-                    <a href="services" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
+                    <a href="services.php" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
                 </div>
             </div>
 
@@ -167,7 +167,7 @@
                    <div class="icon">
                    <i data-lucide="palette" style="width:48px;height:48px;color:#000000"></i>
                    </div>
-                    <h5 class="title"><a href="services">GRAPHIC DESIGNING</a></h5>
+                    <h5 class="title"><a href="services.php">GRAPHIC DESIGNING</a></h5>
                     <ul class="list-style-two ">
                         <li><i class="fa fa-check-circle"></i>Logo Design</li>
                         <li><i class="fa fa-check-circle"></i> Branding Materials</li>
@@ -175,7 +175,7 @@
                         <li><i class="fa fa-check-circle"></i>Infographics</li>
                         <li><i class="fa fa-check-circle"></i>Print and Digital Advertising</li>
                     </ul>
-                    <a href="services" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
+                    <a href="services.php" class="read-more"><i class="fa fa-long-arrow-alt-right"></i></a>
                 </div>
             </div>
         </div>

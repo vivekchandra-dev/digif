@@ -92,7 +92,7 @@ header("HTTP/1.0 404 Not Found");
                 
                 <!-- Buttons -->
                 <a href="/" class="theme-btn btn-style-one mb-3"><span class="btn-title">Back to Home</span></a>
-                <a href="contact" class="theme-btn btn-style-one mb-3 ms-2"><span class="btn-title">Contact Support</span></a>
+                <a href="contact.php" class="theme-btn btn-style-one mb-3 ms-2"><span class="btn-title">Contact Support</span></a>
                 
                 <!-- Social Links -->
                 <div class="social-links mt-4">

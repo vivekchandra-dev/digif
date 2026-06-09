@@ -33,37 +33,37 @@
                   <div class="sidebar-service-list">
                     <ul>
                       <li>
-                        <a href="services" class="current"
+                        <a href="services.php" class="current"
                           ><i class="fas fa-angle-right"></i
                           ><span>SOCIAL MEDIA MANAGEMENT</span></a
                         >
                       </li>
                       <li>
-                        <a href="services"
+                        <a href="services.php"
                           ><i class="fas fa-angle-right"></i
                           ><span>SOCIAL MEDIA OPTIMIZATION</span></a
                         >
                       </li>
                       <li>
-                        <a href="services"
+                        <a href="services.php"
                           ><i class="fas fa-angle-right"></i
                           ><span>WEBSITE DESIGNING</span></a
                         >
                       </li>
                       <li>
-                        <a href="services"
+                        <a href="services.php"
                           ><i class="fas fa-angle-right"></i
                           ><span>CONTENT WRITING</span></a
                         >
                       </li>
                       <li>
-                        <a href="services"
+                        <a href="services.php"
                           ><i class="fas fa-angle-right"></i
                           ><span>GRAPHIC DESIGNING</span></a
                         >
                       </li>
                       <li  class="current">
-                        <a href="services"
+                        <a href="services.php"
                           ><i class="fas fa-angle-right"></i
                           ><span>DIGITAL MARKETING</span></a
                         >
