@@ -141,7 +141,7 @@ img { display: block; max-width: 100%; height: auto; }
 }
 
 /* Logo */
-.main-header .logo-box .logo img { height: 44px; width: auto; }
+.main-header .logo-box .logo img { height: 52px; width: auto; }
 
 /* Desktop Navigation */
 /* Kill the sliding underline that comes from li::before in style.css */
@@ -245,7 +245,7 @@ img { display: block; max-width: 100%; height: auto; }
 }
 /* Shrink logo in sticky state */
 .sticky-header .logo img {
-  max-height: 34px !important;
+  max-height: 38px !important;
   width: auto !important;
 }
 .sticky-header .navigation > li > a {
@@ -1555,7 +1555,7 @@ img { display: block; max-width: 100%; height: auto; }
   border-top: 1px solid rgba(255,255,255,0.07) !important;
   background: rgba(0,0,0,0.2) !important;
 }
-.main-footer .footer-bottom .footer-logo img { height: 34px; width: auto; opacity: 0.7; }
+.main-footer .footer-bottom .footer-logo img { height: 40px; width: auto; opacity: 0.7; }
 .main-footer .footer-bottom .copyright-text {
   font-size: 13px !important;
   color: rgba(255,255,255,0.35) !important;

@@ -2,6 +2,7 @@
     <a href="https://wa.me/9451118291" target="_blank"><i class="fab fa-whatsapp"></i></a>
 </div>
 
+<!--
 <style>
     .whatsapp-float {
         position: fixed;
@@ -35,3 +36,4 @@
         60% { transform: translateY(-5px); }
     }
 </style>
+-->

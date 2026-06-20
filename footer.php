@@ -88,12 +88,12 @@
                 <div class="auto-container">
                     <div class="row">
                         <div class="logo-column col-lg-4 col-md-4 order-2">
-                            <div class="footer-logo"><img src="images/logo.png" alt></div>
+                            <div class="footer-logo"><img src="images/logo-footer.png" alt></div>
                         </div>
                         <div class="links-column col-lg-4 col-md-4 order-3">
                             <ul class="footer-links">
-                                <li><a href="terms-n-conditions">Terms of Use</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="terms-n-conditions.php">Terms of Use</a></li>
+                                <li><a href="privacy.php">Privacy Policy</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-4 col-md-4">
