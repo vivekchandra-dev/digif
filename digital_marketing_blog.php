@@ -33,7 +33,7 @@
                   <div class="sidebar-service-list">
                     <ul>
                       <li>
-                        <a href="services.php" class="current"
+                        <a href="services.php"
                           ><i class="fas fa-angle-right"></i
                           ><span>SOCIAL MEDIA MANAGEMENT</span></a
                         >
@@ -138,20 +138,40 @@
                 For small businesses, in order to compete with well-established brands; digital marketing is an essential tool. Here are several reasons why it's a must for small businesses. 
                 </p>
 
-                <h5 class="mt-3">Cost Effective Marketing </h5>
-                <p>Traditional methods of promotion like TV commercials or printed Ads can be quite costly during the early stages of business. Digital marketing on the other hand is a cost-effective solution. Despite being cost-effective, running campaigns and ads will yield better results as compared to traditional marketing. Making it a more desirable and flexible option to reach an audience. </p>
-
-                <h5>Targeted Audience Reach </h5>
-                <p>Targeting your audience more precisely is another advantage of digital marketing over traditional methods. Through meta-ads, one can target specific demographics, locations, interests, and behaviors. This allows you to reach the audience that is more likely to use your services or products. </p>
-
-                <h5>Measurable Results</h5>
-                <p>One of the most significant uses of digital marketing is it enables you to actually track your progress, KPIs provide insights into how campaigns are performing, which strategies are working, and which are not. This approach allows small business owners to make changes in their strategies and get better results.</p>
-
-                <h5>Increased Visibility and Brand Awareness</h5>
-                <p>A well-executed strategy can enhance your business exponentially in terms of visibility and brand awareness.  SEO, Social media, and content marketing efforts can help businesses appear in search engines and feeds. A consistent online presence helps build brand recognition and credibility.</p>
-
-                <h5>Improved Customer Interaction</h5>
-                <p>Through digital media platforms it opens a gateway of customer interaction, be it their complaints, review, and satisfaction. It opens a way for businesses to directly interact with their audience, as a result of which they feel more connected to business owners. The happier your audience is with you, the more likely you are willing to succeed. </p>
+                <div class="product-description__list mt-4">
+                  <ul class="list-unstyled">
+                    <li>
+                      <p>
+                        <span class="fa fa-arrow-right"></span> Cost Effective Marketing
+                      </p>
+                      <p>Traditional methods of promotion like TV commercials or printed Ads can be quite costly during the early stages of business. Digital marketing on the other hand is a cost-effective solution. Despite being cost-effective, running campaigns and ads will yield better results as compared to traditional marketing. Making it a more desirable and flexible option to reach an audience. </p>
+                    </li>
+                    <li>
+                      <p>
+                        <span class="fa fa-arrow-right"></span> Targeted Audience Reach
+                      </p>
+                      <p>Targeting your audience more precisely is another advantage of digital marketing over traditional methods. Through meta-ads, one can target specific demographics, locations, interests, and behaviors. This allows you to reach the audience that is more likely to use your services or products. </p>
+                    </li>
+                    <li>
+                      <p>
+                        <span class="fa fa-arrow-right"></span> Measurable Results
+                      </p>
+                      <p>One of the most significant uses of digital marketing is it enables you to actually track your progress, KPIs provide insights into how campaigns are performing, which strategies are working, and which are not. This approach allows small business owners to make changes in their strategies and get better results.</p>
+                    </li>
+                    <li>
+                      <p>
+                        <span class="fa fa-arrow-right"></span> Increased Visibility and Brand Awareness
+                      </p>
+                      <p>A well-executed strategy can enhance your business exponentially in terms of visibility and brand awareness.  SEO, Social media, and content marketing efforts can help businesses appear in search engines and feeds. A consistent online presence helps build brand recognition and credibility.</p>
+                    </li>
+                    <li>
+                      <p>
+                        <span class="fa fa-arrow-right"></span> Improved Customer Interaction
+                      </p>
+                      <p>Through digital media platforms it opens a gateway of customer interaction, be it their complaints, review, and satisfaction. It opens a way for businesses to directly interact with their audience, as a result of which they feel more connected to business owners. The happier your audience is with you, the more likely you are willing to succeed. </p>
+                    </li>
+                  </ul>
+                </div>
 
                 <p class="mt-4">At Digitechflux, we understand the complexities faced by small businesses in conquering the digital landscape. Our comprehensive services are designed to help you navigate the digital landscape one step at a time. With our customized SEO strategies, effective Social Media management, professional website design, compelling content writing, and innovative Graphic design we can help you grow your business to a larger scale. </p>
                 <p>At DigiTechFlux, we take great pride in offering solutions that are specifically designed to meet the needs of your business. Our goal is to assist you in reaching measurable goals, engaging with your clientele, and boosting your online presence.</p>

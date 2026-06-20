@@ -25,7 +25,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <div class="page-wrapper">
 
-        <div class="preloader"></div>
+        <div class="preloader">
+            <div class="preloader-inner">
+                <div class="preloader-spinner"></div>
+                <img src="images/logo-footer.png" alt="Digitechflux" class="preloader-logo">
+            </div>
+        </div>
 
         <header class="main-header header-style-two">
 

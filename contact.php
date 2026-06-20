@@ -108,7 +108,7 @@
 								</li>
 								<li>
 									<div class="icon">
-										<span class="fa fa-map-marker"></span>
+										<span class="fa fa-map-marker-alt"></span>
 									</div>
 									<div class="text">
 										<h6>Location</h6>

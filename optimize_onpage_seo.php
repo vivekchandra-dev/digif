@@ -33,7 +33,7 @@
                   <div class="sidebar-service-list">
                     <ul>
                       <li>
-                        <a href="services.php" class="current"
+                        <a href="services.php"
                           ><i class="fas fa-angle-right"></i
                           ><span>SOCIAL MEDIA MANAGEMENT</span></a
                         >

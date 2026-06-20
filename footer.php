@@ -70,7 +70,7 @@
                                        </li>
                                        <li>
                                         <div class="inner d-flex align-items-center">
-                                       <i class="fa fa-map-marker"></i>
+                                       <i class="icon lnr-icon-map-marker"></i>
                                 <div class="text ms-3"> 
                                 B-101 Gokul vraj Jb nagar Kanti nagar Andheri East
                                 </div>
